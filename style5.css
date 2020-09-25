@@ -1,0 +1,13 @@
+.jumbotron-fluid
+{
+	font-style: italic;
+	background-color: #ffb3ff;
+}
+.btn-primary
+{
+	background-color: green;
+}
+.btn-primary:hover
+{
+  background-color: red;
+}
