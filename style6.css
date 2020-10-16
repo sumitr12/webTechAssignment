@@ -8,18 +8,24 @@ body, html
   background-size: cover;
 }
 h1 {
-  text-align: center;
-  color: blue;			
+  	text-align: center;
+	font-family: 'Comic Sans MS', sans-serif;
+	padding: 10px;
+	text-shadow: -1px -1px 20px #F3D3C3;
+	color: blue;		
 }
 
 h2 {
-  text-align: center;
+  	text-align: center;
+	font-family: 'Comic Sans MS', sans-serif;
+	padding: 10px;
+	text-shadow: -1px -1px 20px #F3D3C3;
 	color: blue;
 }
 .btn-primary:hover
 {
-  background-color: red;
-  border-color: green;
+  background-color: #23ADEF;
+  border-color: #30FCFC;
   border-width: 5px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
